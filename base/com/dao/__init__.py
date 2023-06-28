@@ -1,0 +1,2 @@
+class CategoryDAO:
+    pass
